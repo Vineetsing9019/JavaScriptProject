@@ -2,6 +2,8 @@
 
 A live currency converter built with HTML, CSS and JavaScript. Enter an amount, pick two currencies, and it converts using today's exchange rates.
 
+**Live demo:** https://vineetsing9019.github.io/JavaScriptProject/
+
 ![Currency Converter converting 100 USD to INR](screenshots/converter.png)
 
 ## Features
